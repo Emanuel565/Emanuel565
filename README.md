@@ -19,7 +19,28 @@
     
 <div/> <br>
 
-## 🚀 About Me
+# About Me
 
-- 🔭 Currently, I've been working at **SwiftSoft** for over 6 months.
-- 💬 Ask me about I'm looking for opportunities in the fullstack and react area, I want to improve myself with other technologies, I want to be an app developer ..
+Hello, I am a passionate web developer with experience in a variety of languages and technologies.
+
+## Technical Skills
+
+- **JavaScript**: I have a solid understanding of JavaScript, the most popular programming language for the web. I use JavaScript to create dynamic client-side interactions.
+
+- **PHP**: I use PHP to develop server-side applications. I have experience in handling business logic and interaction with the database.
+
+- **MySQL**: I use MySQL to manage data in web applications. I have experience in designing and optimizing relational databases.
+
+- **React.js**: I use React.js to build modern and efficient user interfaces. I have experience in creating reusable components and managing application state.
+
+- **TypeScript**: I use TypeScript to write JavaScript code in a more robust and safe manner. I have experience in defining types and interfaces to improve code quality.
+
+- **HTML5**: I use HTML5 to structure web content. I have experience in using semantic elements and modern APIs.
+
+- **Bootstrap**: I use Bootstrap to create responsive and attractive user interfaces. I have experience in using Bootstrap's grid and pre-built components.
+
+- **MVC**: I have a good understanding of the Model-View-Controller (MVC) architectural pattern. I use MVC to organize my code in a way that separates concerns and improves maintainability.
+
+I am always eager to learn new technologies and improve my existing skills.
+
+
