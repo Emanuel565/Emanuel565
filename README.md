@@ -3,11 +3,11 @@
 # Emanuel Carvalho
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Emanuel+Carvalho+%F0%9F%91%8B;Full+Stack+Software+Engineer+%F0%9F%9A%80;SaaS+%26+Cloud+Systems+Architect;Especialista+em+React%2C+TypeScript+%26+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+sou+Emanuel+Carvalho+%F0%9F%91%8B;Senior+Software+Engineer+%26+Systems+Architect+%F0%9F%9A%80;Especialista+em+Engenharia+Reversa+%F0%9F%94%8D;AI+Trainer+%26+LLM+Specialist+%F0%9F%A4%96;Desenvolvimento+S%C3%AAnior+de+Sistemas+%26+Web+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  Desenvolvedor Full Stack apaixonado por criar produtos digitais robustos, arquiteturas escaláveis e experiências de usuário de alta performance.
+  <b>Senior Software Engineer</b> &bull; <b>Especialista em Engenharia Reversa</b> &bull; <b>AI Trainer</b> &bull; <b>Arquiteto de Sistemas Web & SaaS</b>
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emanuel_Carvalho-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-carvalho-390232182/)
@@ -19,12 +19,12 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
+### 👨‍💻 Sobre Mim & Áreas de Atuação
 
-- 🔭 Atualmente desenvolvendo soluções **SaaS híbridas (Offline & Nuvem)** de alta concorrência.
-- 💡 Especialista em ecossistema **JavaScript/TypeScript**, com forte atuação em **React, Node.js, Express, Prisma ORM e Docker**.
-- ⚡ Foco em **engenharia de performance**: otimização de consultas SQL, indexação de bancos de dados, sequenciamento atômico em $O(1)$ e arquiteturas em tempo real com WebSockets.
-- 🎯 Apaixonado por código limpo, componentização modular, design system e interfaces ergonômicas e acessíveis.
+- 💻 **Desenvolvimento Sênior de Sistemas & Web**: Sólida vivência na arquitetura, liderança técnica e desenvolvimento de sistemas complexos, plataformas SaaS, portais corporativos e aplicações web modernas de alto tráfego com stack moderna (**React, TypeScript, Next.js, Node.js, PHP e Docker**).
+- 🔍 **Engenharia Reversa**: Especialista na desconstrução, análise aprofundada de binários, desmontagem e análise estática/dinâmica de fluxos de execução, engenharia reversa de protocolos de rede e APIs não documentadas, mitigação de vulnerabilidades e modernização de softwares proprietários.
+- 🤖 **AI Trainer & Inteligência Artificial**: Experiência técnica no treinamento, alinhamento comportamental e fine-tuning de Large Language Models (LLMs), curadoria de datasets sintéticos e de alta fidelidade, RLHF/DPO, engenharia avançada de prompts e integração de agentes autônomos e RAG (*Retrieval-Augmented Generation*) em fluxos de negócios reais.
+- ⚡ **Engenharia de Alta Escala**: Foco implacável em performance crítica: indexação de banco de dados para concorrência massiva, sequenciamento atômico $O(1)$, caching inteligente com Redis e SQLite Enterprise WAL Mode para operação 100% offline sem degradação.
 
 ---
 
@@ -35,7 +35,7 @@
     <td width="100%">
       <h3>🛠️ <a href="https://github.com/Emanuel565/assistpro-os">AssistPro OS — Sistema de Gestão para Assistência Técnica</a></h3>
       <p>
-        SaaS Híbrido Corporativo com suporte a operação <b>100% Offline Local (SQLite WAL)</b> ou <b>Nuvem de Alta Escala (Docker + PostgreSQL + Redis)</b> para oficinas de Smartphones, Informática, Games e Eletrônica.
+        SaaS Híbrido Corporativo com suporte a operação <b>100% Offline Local (SQLite WAL)</b> ou <b>Nuvem de Alta Concorrência (Docker + PostgreSQL + Redis)</b> para oficinas de Smartphones, Informática, Games e Eletrônica.
       </p>
       <p>
         <a href="https://emanuel565.github.io/assistpro-os/">
@@ -52,9 +52,28 @@
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Competências & Stack Tecnológica
 
-#### 🎨 Frontend
+#### 🤖 Inteligência Artificial & AI Training
+<p>
+  <img src="https://img.shields.io/badge/AI_Trainer-LLM_Alignment-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="AI Trainer" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-Advanced-8A2BE2?style=for-the-badge&logo=sparkles&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/RAG_&_Agents-000000?style=for-the-badge&logo=robot&logoColor=white" alt="RAG & Agents" />
+</p>
+
+#### 🔍 Engenharia Reversa & Segurança
+<p>
+  <img src="https://img.shields.io/badge/Reverse_Engineering-Binary_Analysis-DC2626?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Reverse Engineering" />
+  <img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=nsa&logoColor=white" alt="Ghidra" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Protocol_Analysis-Network_Auditing-1E293B?style=for-the-badge&logo=shield&logoColor=white" alt="Protocol Analysis" />
+  <img src="https://img.shields.io/badge/x64dbg-Debuggers-3B82F6?style=for-the-badge&logo=codeproject&logoColor=white" alt="x64dbg" />
+</p>
+
+#### 🎨 Desenvolvimento Web & Frontend
 <p>
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -66,7 +85,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-#### ⚙️ Backend & APIs
+#### ⚙️ Sistemas, Backend & Arquitetura
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
@@ -74,9 +93,10 @@
   <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
   <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-SaaS_Scalability-059669?style=for-the-badge&logo=codefactor&logoColor=white" alt="Architecture" />
 </p>
 
-#### 🗄️ Bancos de Dados
+#### 🗄️ Bancos de Dados & Otimização
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -84,7 +104,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
-#### 🐳 DevOps & Desktop
+#### 🐳 DevOps, Infraestrutura & Desktop
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose" />
@@ -110,6 +130,6 @@
 ---
 
 <div align="center">
-  <sub>💡 <i>"Transformando ideias complexas em sistemas simples, elegantes e ultra-escaláveis."</i></sub><br/>
-  <b>Vamos nos conectar e construir algo incrível! 🤝</b>
+  <sub>💡 <i>"Dominando o baixo nível com Engenharia Reversa, projetando o alto nível com Arquitetura de Software e moldando o futuro com Inteligência Artificial."</i></sub><br/><br/>
+  <b>Vamos nos conectar e construir soluções extraordinárias! 🤝</b>
 </div>
