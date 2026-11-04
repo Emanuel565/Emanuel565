@@ -2,7 +2,39 @@
 
 # Emanuel Carvalho
 
-<a href="https://git.io/typing-svg">
+<a href="https://git.io# Olá, eu sou o Emanuel Carvalho 👋
+
+**Desenvolvedor Full-stack Pleno (Node.js | React.js | TypeScript)** — 📍 Curitiba, PR | 💼 Desenvolvedor Full-stack na **Swiftsoft**
+
+## Sobre Mim
+
+- 🚀 **Engenharia & Performance:** Arquitetura de sistemas web, refatoração e otimização de consultas em bancos relacionais (MySQL), alcançando redução de 20% no tempo de resposta em sistemas críticos de gestão de pedidos.
+- 🧪 **Qualidade de Código:** Aplicação de Clean Code, princípios SOLID, Design Patterns (MVC), revisões de código por pares (Code Reviews) e testes unitários automatizados (Jest / Vitest).
+- 🐳 **Infraestrutura & DevOps:** Isolamento e padronização de ambientes com Docker e Docker Compose, migrações de banco com Phinx, deploy em produção com Nginx e pipelines de CI/CD via GitHub Actions.
+- 🤖 **IA Aplicada à Engenharia:** Integração de LLMs locais (Ollama / Qwen2.5-Coder) no fluxo de desenvolvimento para automação de testes, refatoração e produtividade técnica.
+
+## Stack Tecnológica
+
+| Categoria | Tecnologias |
+| --- | --- |
+| Front-end | React.js, TypeScript, JavaScript (ES6+), Tailwind CSS, Material UI, Bootstrap, React Spring, HTML5, CSS3 |
+| Back-end & APIs | Node.js, Express, PHP, RESTful APIs, Arquitetura MVC, GraphQL |
+| Banco de Dados | MySQL, SQLite, Phinx (Migrações) |
+| DevOps & Qualidade | Docker, Docker Compose, Nginx, GitHub Actions (CI/CD), Git, WSL, Jest, Vitest, Vite |
+
+## Projetos em Destaque
+
+| Projeto | Descrição |
+| --- | --- |
+| Empreendimentos Irmãos Cruz | Aplicação web full-stack para o setor de locações imobiliárias com arquitetura MVC desacoplada e filtros dinâmicos de alta performance (React.js, Node.js, MySQL). |
+| Inpreart | Plataforma web voltada à gestão de clientes, consumo otimizado de Web APIs e foco em Core Web Vitals (JavaScript, React.js, REST API). |
+| Limbo AI | Aplicação web interativa integrada a fluxos de inteligência artificial e deploy automatizado via GitHub Actions (TypeScript, React, GitHub Actions). |
+| Pisicolando Web | Plataforma web responsiva com pipeline de entrega contínua no GitHub Pages (JavaScript, HTML5, CSS3). |
+
+## Contato
+
+- ✉️ **E-mail:** manuca53813@gmail.com
+- 💼 **LinkedIn:** [Emanuel Pereira de Carvalho](https://www.linkedin.com/in/emanuel-carvalho-390232182/)/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+sou+Emanuel+Carvalho+%F0%9F%91%8B;Senior+Software+Engineer+%26+Systems+Architect+%F0%9F%9A%80;Especialista+em+Engenharia+Reversa+%F0%9F%94%8D;AI+Trainer+%26+LLM+Specialist+%F0%9F%A4%96;Desenvolvimento+S%C3%AAnior+de+Sistemas+%26+Web+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
