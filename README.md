@@ -2,7 +2,7 @@
 
 # Emanuel Carvalho
 
-**Desenvolvedor Fullstack** · React · TypeScript · Node.js · Docker
+**Desenvolvedor Fullstack** · React · TypeScript · Node.js · Docker<br>
 📍 Curitiba, PR
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emanuel_Carvalho-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-carvalho-390232182/)
@@ -39,11 +39,11 @@ Landing pages editoriais em React para negócios locais de Curitiba, publicadas 
 
 ## Tecnologias
 
-**Front-end:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, Material UI, HTML5, CSS3
-**Back-end:** Node.js, Express, PHP, Python, Prisma, APIs REST, WebSocket
-**Banco de dados:** PostgreSQL, MySQL, SQLite, Redis
-**DevOps:** Docker, Docker Compose, Nginx, Git, GitHub Pages
-**IA:** Ollama (modelos locais), Whisper, OpenCV
+- **Front-end:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, Material UI, HTML5, CSS3
+- **Back-end:** Node.js, Express, PHP, Python, Prisma, APIs REST, WebSocket
+- **Banco de dados:** PostgreSQL, MySQL, SQLite, Redis
+- **DevOps:** Docker, Docker Compose, Nginx, Git, GitHub Pages
+- **IA:** Ollama (modelos locais), Whisper, OpenCV
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,php,python,prisma,postgres,mysql,sqlite,redis,docker,nginx,git&perline=17" alt="Tecnologias" />
