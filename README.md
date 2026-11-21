@@ -5,7 +5,7 @@
 **Desenvolvedor Fullstack** · React · TypeScript · Node.js · Docker<br>
 📍 Curitiba, PR
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emanuel_Carvalho-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-carvalho-390232182/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emanuel_Carvalho-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-pereira-de-carvalho-dev/)
 [![E-mail](https://img.shields.io/badge/E--mail-manuca53813%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manuca53813@gmail.com)
 
 </div>
